@@ -91,12 +91,12 @@ a{
     border-radius: 5px;
     border: none;
     cursor: pointer;
-    transition: all ease 500ms;
+    transition: all ease 300ms;
 }
 
-.first-button:hover {
+.first-button:hover,{
     background-color: rgba(56, 130, 246, 0.5);
-    border: 2px solid rgb(56, 130, 246);
+    border: 1px solid #f9faf8;
 }
 
 .hero-text, a {
@@ -164,7 +164,59 @@ a{
 }
 
 .quote {
-    font-size: 36px;
+    font-size: 28px;
     font-style: italic;
     color: #1f2937;
+}
+
+/* Fourth div */
+
+.fourth-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+}
+
+.fourth-container {
+    width: 70%;
+    height: 40%;
+    background-color: rgb(56, 130, 246);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.card-content {
+    color: #e5e7eb;
+    font-size: 15px;
+}
+
+.card-header {
+    color: #f9faf8;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid #f9faf8;
+    color: #f9faf8;
+    background-color: rgb(56, 130, 246);
+    cursor: pointer;
+}
+
+/* footer */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
 }
