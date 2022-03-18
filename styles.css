@@ -145,3 +145,26 @@ a{
     border: 3px solid rgb(56, 130, 246);
     border-radius: 10px;
 }
+
+/* Third div */
+
+.third-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    background-color: #e5e7eb;
+}
+
+.third-container {
+    width: 80%;
+    height: 80%;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
