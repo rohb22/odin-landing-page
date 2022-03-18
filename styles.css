@@ -94,7 +94,7 @@ a{
     transition: all ease 300ms;
 }
 
-.first-button:hover,{
+.first-button:hover{
     background-color: rgba(56, 130, 246, 0.5);
     border: 1px solid #f9faf8;
 }
