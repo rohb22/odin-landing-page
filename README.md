@@ -21,7 +21,7 @@ In general i learn how to style using flexbox
 
 
 # Update
-I want to customize the website 
+I want to customize the website\
 I decide to make it an anime webpage
 
 Stuff that i apply and learn to this update
