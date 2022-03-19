@@ -30,7 +30,7 @@ Stuff that i apply and learn to this update
 - Setting up Web icon
 - Manipulating images
 
-Web icon/logo: https://www.pinterest.ph/pin/669629038326278026/\
+Web icon/logo: https://www.pinterest.ph/pin/669629038326278026/ \
 Info/character images source: https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken
 
 
