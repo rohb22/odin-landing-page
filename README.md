@@ -21,7 +21,7 @@ In general i learn how to style using flexbox
 
 
 # Update
-I want to customize the website 
+I want to customize the website\
 I decide to make it an anime webpage
 
 Stuff that i apply and learn to this update
@@ -30,7 +30,7 @@ Stuff that i apply and learn to this update
 - Setting up Web icon
 - Manipulating images
 
-Web icon/logo: https://www.pinterest.ph/pin/669629038326278026/\
+Web icon/logo: https://www.pinterest.ph/pin/669629038326278026/ \
 Info/character images source: https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken
 
 
