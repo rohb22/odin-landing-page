@@ -36,3 +36,7 @@ Info/character images source: https://myanimelist.net/anime/37430/Tensei_shitara
 
 # Problems
 Not mobile responsive
+
+# Conclusion 
+Finished Product:
+<img height="500px" alt="desired output" src="https://github.com/rohb22/odin-landing-page/blob/main/images/Final.png?raw=true">
