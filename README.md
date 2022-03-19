@@ -39,4 +39,4 @@ Not mobile responsive
 
 # Conclusion 
 Finished Product:
-<img height="500px" alt="desired output" src="https://github.com/rohb22/odin-landing-page/blob/main/images/Final.png?raw=true">
+<img height="500px" alt="final-photo" src="https://github.com/rohb22/odin-landing-page/blob/main/images/Final.png?raw=true">
